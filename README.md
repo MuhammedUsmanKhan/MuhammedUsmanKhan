@@ -94,8 +94,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedusmankhan&layout=compact&theme=radical&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedusmankhan&theme=radical)
-
 </div>
 
 ---
