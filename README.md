@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Muhammad Usman
 </h1>
 
-<h3 align="center">🚀 Passionate Full-Stack Developer | Modern Tech Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">🌟 Hi, I’m Muhammad Usman! I enjoy crafting web apps, exploring new tech, and contributing to freelance projects.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammedusmankhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedusmankhan" /> 
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammedusmankhan&theme=onedark&row=2&column=4)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammadusmankhan&theme=onedark&row=2&column=4)
 
 </div>
 
@@ -24,9 +24,10 @@
 <p>I'm a passionate full-stack developer dedicated to mastering modern technologies and building impactful, user-centric applications. I enjoy tackling complex problems and turning ideas into reality through code.</p>
 
 - 🔭 **Currently working on:** AssignBase
-- 🌱 **Currently learning:** NestJS, GraphQL, TanstackQuery, NextJS
+- 🌱 **I'm currently deepening my expertise in scalable backend architecture by immersing myself in NestJS, GraphQL, and TypeScript.**
 - 👯 **Collaborating on:** Student-Management-App (freelance)
-- 📝 **I write articles on:** [Medium](https://medium.com/@uktech0310)
+- 🤝 **Seeking creative collaborators for future freelance opportunities. Let's connect!**
+- 📝 **In future I will be writing articles on:** [Medium](https://medium.com/@uktech0310)
 - 📫 **How to reach me:** uktech0310@gmail.com
 - 📄 **Know about my experiences:** [View Resume](https://drive.google.com/file/d/1yl0PpJVQFYHOFqbOpq9ot05YNfpwWG3s/view?usp=sharing)
 
@@ -34,7 +35,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mohammad-usman" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad usman" height="30" width="40" />
     LinkedIn
