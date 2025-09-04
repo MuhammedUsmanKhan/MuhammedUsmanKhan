@@ -36,12 +36,12 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammad-usman" target="blank">
+  <a href="https://www.linkedin.com/in/mohammad-usman-71aa9b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad usman" height="30" width="40" />
     LinkedIn
   </a>
   <span> | </span>
-  <a href="https://fb.com/muhammad-usman" target="blank">
+  <a href="https://www.facebook.com/share/1JoTXPE5AE/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad usman" height="30" width="40" />
     Facebook
   </a>
